@@ -6,4 +6,4 @@ For agents, feel free to make an experimental branch or watch this space for mor
 
 
 CREDITS: Code heavily based on https://github.com/mayooear/gpt4-pdf-chatbot-langchain. 
-We based our code on this demo out of the many QA chatbot demos out there because of its simple codebase, which allows for quicker iteration. Unfortunately, out of the box performance is insufficient to tackle all kinds of questions for financial data, which is why we started this project since there is a lot of interest in applying LLMs particularly on this domain of data.
+We based our code on this demo out of the many QA chatbot demos out there because of its simple codebase, which allows for quicker iteration. Unfortunately, out of the box performance is insufficient to tackle all kinds of questions for financial data, which is why we started this project since there is a lot of interest in applying LLMs on this kind of data.
